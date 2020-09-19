@@ -2318,12 +2318,13 @@ i:before {
 
 .f_insta_widget ul li {
   width: calc(100% / 4);
-  float: left;
+
 }
 
 .f_insta_widget ul li a {
   display: inline-block;
   padding: 1px;
+  color: white;
 }
 
 .f_insta_widget ul li a img {
