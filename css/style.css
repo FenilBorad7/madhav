@@ -887,8 +887,8 @@ i:before {
   background-image: -moz-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
   background-image: -webkit-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
   background-image: -ms-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
-  padding: 160px 0px 170px 0px;
-  border-bottom: 2px solid #fff;
+  padding: 90px 0px 90px 0px;
+  /* border-bottom: 2px solid #fff; */
 }
 
 .talk_text {
