@@ -123,6 +123,9 @@ require 'admin/common/dbconnect.php';
                             </aside>
                         </div>
                         <div class="col-lg-4 col-sm-6">
+                           
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
                             <aside class="f_widget f_insta_widget">
                                 <div class="f_title">
                                     <h3>Quick Links</h3>
@@ -146,19 +149,6 @@ require 'admin/common/dbconnect.php';
 
                             </aside>
                         </div>
-                        <div class="col-lg-4 col-sm-6">
-                            <aside class="f_widget f_subs_widget">
-                                <div class="f_title">
-                                    <h3>Subscribe to newsletter</h3>
-                                </div>
-                                <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="Your e-mail address here" aria-label="Your e-mail address here">
-                                    <span class="input-group-btn">
-                                        <button class="btn btn-secondary submit_btn" type="button">Subscribe</button>
-                                    </span>
-                                </div>
-                            </aside>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -170,7 +160,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 </h5>
                     </div>
                     <div class="float-sm-right">
-                        <ul>
+                        <ul style="color: white;">
                             <li><a href="https://www.facebook.com/Madhav-Industry-103884381426839/"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/IndustryMadhav?s=09"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/madhavindustry/?igshid=uh556p3cnnth"><i class="fa fa-instagram"></i></a></li>

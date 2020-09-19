@@ -2394,12 +2394,12 @@ i:before {
 .footer_copyright {
   overflow: hidden;
   background: #11173b;
-  padding: 35px 0px;
+  padding: 20px 0px;
 }
 
 .footer_copyright .float-sm-left h5 {
   font-size: 14px;
-  color: #2a2f56;
+  color: #fff;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
