@@ -46,7 +46,7 @@
                         <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="about-us.html">About Us</a></li>
                         <li class="nav-item"><a class="nav-link" href="service.html">Services</a></li>
-                        <!-- <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li> -->
+                       <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
                         <li class="nav-item active"><a class="nav-link" href="blog.php">Blog</a></li>
                         
                         <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
